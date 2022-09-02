@@ -8,8 +8,8 @@ import { BrowserRouter as Router, Route, Routes, Switch } from "react-router-dom
 function App() {
   return (
     
-   <Login/>
-  
+  //  <Login/>
+  <SignUp/>
   );
 }
 
